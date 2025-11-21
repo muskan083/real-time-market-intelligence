@@ -90,6 +90,7 @@ real_time_market_intel
 
 The final market signal is computed using weighted NLP + engagement scoring:
 Signal = (TF-IDF score * Keyword intensity * Engagement weight)
+
 Signal strength ranges from:
   +1.0 → Strong Bullish
   0.0 → Neutral
