@@ -74,7 +74,8 @@ Sample Output Structure
 | ---------------- | ----------- | ---------------------- | ----- | -------- | --------------- | ------- |
 | 2025-01-10 10:21 | @financeguy | Nifty breakout coming! | 54    | 12       | 0.82            | Bullish |
 
-Files available:| File                             | Description                         |
+Files available:
+| File                             | Description                         |
 | -------------------------------- | ----------------------------------- |
 | `samples/sample_tweets.parquet`  | Cleaned tweets dataset              |
 | `samples/sample_signals.parquet` | Signal scores for trading sentiment |
