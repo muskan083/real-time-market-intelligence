@@ -1,4 +1,5 @@
 Real-Time Market Intelligence System
+
 🚀 Indian Stock Market Tweet Scraping | NLP Signal Generation | Streaming ETL Pipeline
 
 This project implements a complete end-to-end real-time market intelligence system to collect, process, and analyze social sentiment around the Indian stock market using Twitter/X — without paid APIs.
